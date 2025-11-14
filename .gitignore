@@ -1,0 +1,14 @@
+# to ignore executable files
+*.exe
+
+# to ignore object files
+*.o
+*.obj
+*.out
+
+# to ignore build/debug folders
+build/
+debug/
+
+# to ignore VS Code settings
+.vscode/
